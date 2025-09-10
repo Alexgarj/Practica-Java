@@ -5,6 +5,6 @@ function cualEsMayor(a,b){
         return b;
     }
 }
-let mayor = cualEsMayor (10 , 5);
+let mayor = cualEsMayor (20 , 5);
 
 console.log(mayor);
